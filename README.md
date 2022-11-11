@@ -1,7 +1,16 @@
+## Hello world! 💻
 
-https://wilfredpine.github.io/
+### I am [Wilfred V. Pine](https://wilfredpine.github.io/)
 
-https://confired.com/
+Welcome to my [profile](https://confired.com/)
+
+### Technologies use & teach:
+
+## Backend
+
+## Frontend
+
+## IDE & Tools
 
 <!---
 wilfredpine/wilfredpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
