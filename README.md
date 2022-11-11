@@ -30,10 +30,8 @@ Welcome to my [profile](https://confired.com/) (●'◡'●)
 #### Frameworks
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<!--- Code Igniter ---><!--- Lavalust --->
-- CodeIgniter
-- [Lavalust](https://github.com/ronmarasigan/LavaLust)
-
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+[Lavalust](https://github.com/ronmarasigan/LavaLust)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
