@@ -32,7 +32,7 @@ Welcome to my [profile](https://confired.com/) (●'◡'●)
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-[![Lavalust](https://raw.githubusercontent.com/ronmarasigan/LavaLust-Docs/master/assets/images/logo1.png)](https://github.com/ronmarasigan/LavaLust)
+[![LavaLust](https://user-images.githubusercontent.com/53922574/201453603-f2bda4b5-4a0a-4b04-937c-c07e2be59e1e.png)](https://github.com/ronmarasigan/LavaLust)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -87,7 +87,7 @@ Canva
 
 ### 
 
-![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+[![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](only.master.red@gmail.com)
 
 ![Followers](https://img.shields.io/github/followers/wilfredpine.svg?style=social&label=Follow&maxAge=2592000)
 
