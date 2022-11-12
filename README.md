@@ -63,8 +63,8 @@ I teach IT students at Mindoro State University about programming, databases, em
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![virtualbox](https://user-images.githubusercontent.com/53922574/201463196-7eb52232-2695-4bd4-8db6-b591f40cbe05.png)
-![vmware](https://user-images.githubusercontent.com/53922574/201463200-62b96927-2a44-4a9f-956f-d783650024aa.png)
+![virtualbox](https://user-images.githubusercontent.com/53922574/201463318-c9f5c4bb-b89d-47cf-8b14-51ad4a7184f1.png)
+![vmware](https://user-images.githubusercontent.com/53922574/201463326-4c9d35f5-75e3-4d84-9e4c-4a2000d9048d.png)
 
 ### Kept being explored:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
