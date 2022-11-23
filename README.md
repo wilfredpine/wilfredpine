@@ -2,7 +2,7 @@
 
 ## I am [Wilfred V. Pine](https://wilfredpine.github.io/) 😊
 
-### Welcome to my [profile](https://confired.com/) (●'◡'●)
+### Welcome to my [channel](https://wilfredpine.github.io/) (●'◡'●)
 
 <!--- https://dev.to/envoy_/150-badges-for-github-pnk --->
 <!--- https://github.com/Ileriayo/markdown-badges#table-of-contents --->
