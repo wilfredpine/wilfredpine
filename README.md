@@ -10,7 +10,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/wilfredpine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wilfredpine)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilfredpine9)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ConfiRed/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@confired-official/)
 
 I teach IT students at Mindoro State University about programming, databases, embedded systems, and multimedia as a college instructor. I enjoy sharing small knowledge and ideas to people for their future careers. I gain my expertise through my experience and from other professionals who well-instruct and mentor me, thus I want to impart it to others as well. I explored with a variety of technologies, some for long-term development and others for simple, basic self-learning. I'm interested in learning more about various technologies.
 
