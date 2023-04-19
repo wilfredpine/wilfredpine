@@ -39,7 +39,7 @@ I teach IT students at Mindoro State University about programming, databases, em
 ### Prototyping
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-### 
+### Other Tools
 ![vmware](https://user-images.githubusercontent.com/53922574/201463326-4c9d35f5-75e3-4d84-9e4c-4a2000d9048d.png)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
