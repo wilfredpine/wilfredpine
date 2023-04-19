@@ -1,10 +1,4 @@
-# Hello world! 💻
-
-<!--
-## I am [Wilfred V. Pine](https://wilfredpine.github.io/) 😊
-
-### Welcome to my [channel](https://wilfredpine.github.io/) (●'◡'●)
--->
+## Hello world! 💻
 
 <!--- https://dev.to/envoy_/150-badges-for-github-pnk --->
 <!--- https://github.com/Ileriayo/markdown-badges#table-of-contents --->
@@ -36,6 +30,7 @@ I teach IT students at Mindoro State University about programming, databases, em
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 [![Confired](https://user-images.githubusercontent.com/53922574/201453869-4fed8c2c-1ea8-4a42-ada7-b02c02b6f273.png)](https://github.com/wilfredpine/confired)
 [![LavaLust](https://user-images.githubusercontent.com/53922574/201453603-f2bda4b5-4a0a-4b04-937c-c07e2be59e1e.png)](https://github.com/ronmarasigan/LavaLust)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -53,7 +48,8 @@ I teach IT students at Mindoro State University about programming, databases, em
 ### 
 ![vmware](https://user-images.githubusercontent.com/53922574/201463326-4c9d35f5-75e3-4d84-9e4c-4a2000d9048d.png)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 ### Kept being explored:
@@ -72,15 +68,11 @@ I teach IT students at Mindoro State University about programming, databases, em
 
 ---
 
-
-## Interested in:
-Virtualization, DevOps, Machine Learning
+#### Interested in: Virtualization, DevOps, Machine Learning
 
 ---
 
 [![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](only.master.red@gmail.com)
-
-![Followers](https://img.shields.io/github/followers/wilfredpine.svg?style=social&label=Follow&maxAge=2592000)
 
 <!---
 wilfredpine/wilfredpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
