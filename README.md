@@ -74,7 +74,7 @@ I teach IT students at Mindoro State University about programming, databases, em
 
 
 ## Interested in:
-DevOps
+Virtualization, DevOps, Machine Learning
 
 ---
 
