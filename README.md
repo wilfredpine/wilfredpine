@@ -11,6 +11,7 @@
 I teach IT students at Mindoro State University about programming, databases, embedded systems, and multimedia as a college instructor. I enjoy sharing small knowledge and ideas to people for their future careers. I gain my expertise through my experience and from other professionals who well-instruct and mentor me, thus I want to impart it to others as well. I'm interested in learning more about various technologies.
 
 ---
+#### Have small knowledge of the following:
 - Language: Python, PHP, C#, Java
 - Front-End: HTML, CSS, Bootstrap, & Vanilla JS
 - Frameworks: DJango, Flask, CodeIgniter, Laravel, [LavaLust](https://github.com/ronmarasigan/LavaLust), & [Confired](https://github.com/wilfredpine/confired)
