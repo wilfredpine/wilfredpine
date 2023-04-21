@@ -21,6 +21,7 @@ I teach IT students at Mindoro State University about programming, databases, em
 - Virtualization: VMWare Workstation, Virtual Box
 - Version Control: Git
 - Containers: Docker
+- Agile
 ---
 - Kept being explored: Laravel, Git, Docker, Kubernetes, HEROKU, Flutter
 - Presently studying: Node.JS, MongoDB, CNN
