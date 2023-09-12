@@ -12,16 +12,16 @@ I teach IT students at Mindoro State University about programming, databases, em
 
 ---
 #### Have some knowledge of the following:
-- Language: Python, PHP, C#, Java
+- Language: Python, PHP, C, C#, Java
 - Front-End: HTML, CSS, Bootstrap, & Vanilla JS
 - Frameworks: DJango, Flask, CodeIgniter, Laravel, [LavaLust](https://github.com/ronmarasigan/LavaLust), & [Confired](https://github.com/wilfredpine/confired)
-- Database: MySQL, MSSQL
+- Database: MS Access, MSSQL, MySQL
 - Graphics Design Tools: Adobe Photoshop, Adobe Premiere Pro
 - Prototyping: Arduino, & Raspberrypi
 - Virtualization: VMWare Workstation, Virtual Box
-- Version Control: Git
-- Containers: Docker
-- Agile
+- Containerization: Docker
+- Git Version Control
+- Agile Model
 ---
 - Kept being explored: Laravel, Git, Docker, Kubernetes, HEROKU, Flutter
 - Presently studying: Node.JS, MongoDB, CNN
