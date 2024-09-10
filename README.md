@@ -12,20 +12,20 @@ IT Instructor. Though not an expert, I enjoy sharing knowledge and ideas with ot
 
 ---
 #### Have some knowledge of the following:
-- Language: Python, PHP, C, C#, Java
+- Language: Python, PHP, C, C#, Java, NodeJS
 - Front-End: HTML, CSS, Bootstrap, & Vanilla JS
-- Frameworks: DJango, Flask, CodeIgniter, Laravel, [LavaLust](https://github.com/ronmarasigan/LavaLust), & [Confired](https://github.com/wilfredpine/confired)
-- Database: MS Access, MSSQL, MySQL, SQLite
+- Frameworks: Django, Flask, CodeIgniter, Laravel, [LavaLust](https://github.com/ronmarasigan/LavaLust), [Confired](https://github.com/wilfredpine/confired), & ExpressJS
+- Database: MS Access, MSSQL, MySQL, SQLite, PostgreSQL
 - Graphics Design Tools: Adobe Photoshop & Illustrator, Adobe Premiere Pro
 - Prototyping: Arduino, & Raspberrypi
 - Virtualization: VMWare Workstation, Virtual Box
 - Containerization: Docker
 - Git Version Control
 ---
-- Kept being explored: Laravel, Docker & Kubernetes, HEROKU, Flutter, Android
-- Presently studying: Node.JS Frameworks, MongoDB, CNN
+- Kept being explored: Laravel, Docker & Kubernetes, Flutter, Android
+- Presently studying: JS Frameworks, MongoDB, Neural Network
 ---
-#### Interested in: Virtualization & Containerization, DevOps Roadmap, Machine Learning, AI, Cyber Security
+#### Interested in: Virtualization & Containerization, DevOps, Machine Learning, AI, Cyber Security
 ---
 [![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](only.master.red@gmail.com)
 
