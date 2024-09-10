@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilfredpine9)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@confired-official/)
 
-I teach IT students at MinSU about programming, databases, embedded systems, and multimedia as a college instructor. I am not a pro. but I enjoy sharing knowledge and ideas to people for their future careers. I gain my expertise through my experience and from other professionals who well-instruct and mentor me, thus I want to impart it to others as well. I'm interested in learning more about various technologies.
+IT Instructor. Though not an expert, I enjoy sharing knowledge and ideas with others for their future careers. I gain my expertise through my experience and other professionals who well-instruct and mentor me; thus, I want to impart it to others as well. I'm interested in learning more about various technologies.
 
 ---
 #### Have some knowledge of the following:
