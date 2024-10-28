@@ -8,24 +8,25 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wilfredpine9)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@confired-official/)
 
-IT Instructor. Though not an expert, I enjoy sharing knowledge and ideas with others for their future careers. I gain my expertise through my experience and other professionals who well-instruct and mentor me; thus, I want to impart it to others as well. I'm interested in learning more about various technologies.
+IT Instructor. Though not an expert, I enjoy sharing knowledge and ideas with others for their future careers. I gained my expertise through my experience and other professionals who well-instructed and mentored me; thus, I want to impart it to others as well. I'm interested in learning more about various technologies.
 
 ---
 #### Have some knowledge of the following:
 - Language: Python, PHP, C, C#, Java, NodeJS
 - Front-End: HTML, CSS, Bootstrap, & Vanilla JS
-- Frameworks: Django, Flask, CodeIgniter, Laravel, [LavaLust](https://github.com/ronmarasigan/LavaLust), [Confired](https://github.com/wilfredpine/confired), & ExpressJS
-- Database: MS Access, MSSQL, MySQL, SQLite, PostgreSQL
-- Graphics Design Tools: Adobe Photoshop & Illustrator, Adobe Premiere Pro
+- Frameworks: [Django](https://www.djangoproject.com/), [Flask](https://flask.palletsprojects.com/en/stable/), [ExpressJS](https://expressjs.com/), [CodeIgniter](https://codeigniter.com/userguide3/index.html), [Laravel](https://laravel.com/docs/11.x/releases), [LavaLust](https://github.com/ronmarasigan/LavaLust), & [Confired](https://github.com/wilfredpine/confired)
+- Database: MySQL, SQLite, PostgreSQL, MSSQL, MS Access
+- Graphics Design Tools: Adobe Photoshop, Adobe Illustrator, & Adobe Premiere Pro
 - Prototyping: Arduino, & Raspberrypi
-- Virtualization: VMWare Workstation, Virtual Box
+- Virtualization: VMWare Workstation, VMware vSphere Hypervisor (ESXi)
 - Containerization: Docker
 - Git Version Control
+- Machine Learning
 ---
-- Kept being explored: Laravel, Docker & Kubernetes, Flutter, Android
-- Presently studying: JS Frameworks, MongoDB, Neural Network
+- Kept being explored: Docker & Kubernetes, Flutter, Blockchain Technology
+- Presently studying: MongoDB, NLP, and Neural Network
 ---
-#### Interested in: Virtualization & Containerization, DevOps, Machine Learning, AI, Cyber Security
+#### Also Interested in: Virtualization & Containerization, Machine Learning, Blockchain Technology, Cyber Security
 ---
 [![Ask Me](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](only.master.red@gmail.com)
 
